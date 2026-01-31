@@ -1,6 +1,6 @@
 # Sql
 
-This folder contains exercises and projects from the Data Engineering Zoomcamp for the sql module.
+This folder contains exercises and projects from the Data Engineering for the sql module.
 
 ## Contents
 - Scripts, SQL files, or notebooks
