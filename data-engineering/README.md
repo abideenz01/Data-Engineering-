@@ -1,6 +1,6 @@
 # Data Engineering Zoomcamp Portfolio
 
-This repository contains my hands-on projects for the Data Engineering  . Each folder corresponds to a module/exercise completed during the course.
+This repository contains my hands-on projects for the Data Engineering. Each folder corresponds to a module/exercise completed during the hands on experience.
 
 ## Modules
 - docker/ - Environment setup with Docker
