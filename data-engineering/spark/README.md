@@ -1,6 +1,6 @@
 # Spark
 
-This folder contains exercises and projects from the Data Engineering Zoomcamp for the spark module.
+This folder contains exercises and projects from the Data Engineering for the spark module.
 
 ## Contents
 - Scripts, SQL files, or notebooks
