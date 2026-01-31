@@ -1,4 +1,4 @@
-# Data Engineering Zoomcamp Portfolio
+# Data Engineering Portfolio
 
 This repository contains my hands-on projects for the Data Engineering. Each folder corresponds to a module/exercise completed during the hands on experience.
 
