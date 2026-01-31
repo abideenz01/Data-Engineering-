@@ -1,6 +1,6 @@
 # Final-project
 
-This folder contains exercises and projects from the Data Engineering Zoomcamp for the final-project module.
+This folder contains exercises and projects from the Data Engineering  for the final-project module.
 
 ## Contents
 - Scripts, SQL files, or notebooks
