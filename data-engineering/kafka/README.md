@@ -1,6 +1,6 @@
 # Kafka
 
-This folder contains exercises and projects from the Data Engineering Zoomcamp for the kafka module.
+This folder contains exercises and projects from the Data Engineering  for the kafka module.
 
 ## Contents
 - Scripts, SQL files, or notebooks
