@@ -1,6 +1,6 @@
 # Docker
 
-This folder contains exercises and projects from the Data Engineering Zoomcamp for the docker module.
+This folder contains exercises and projects from the Data Engineering  for the docker module.
 
 ## Contents
 - Scripts, SQL files, or notebooks
