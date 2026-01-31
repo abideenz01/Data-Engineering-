@@ -1,6 +1,6 @@
 # Dbt
 
-This folder contains exercises and projects from the Data Engineering Zoomcamp for the dbt module.
+This folder contains exercises and projects from the Data Engineering  for the dbt module.
 
 ## Contents
 - Scripts, SQL files, or notebooks
